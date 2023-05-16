@@ -83,15 +83,15 @@ Next, we used the `RandomOverSampler` module from the `imbalanced-learn` library
 
 ### Model2:
 
-By oversampling our data, this model increases the balanced accuracy score nearly to 100%. 
+  - By oversampling our data, this model increases the balanced accuracy score nearly to 100%. 
 
-  Balanced Accuracy Score: 0.9959744975744975
+    Balanced Accuracy Score: 0.9959744975744975
 
-Based on the classification report we see the model leading to a 100% accuracy, which means that it performed very well in distinguishing between healthy loans and high-risk loans. The model achieved the highest true positive (healthy loans) and true negative (high-risk loans) for healthy loans. 
+  - Based on the classification report we see the model leading to a 100% accuracy, which means that it performed very well in distinguishing between healthy loans and high-risk loans. The model achieved the highest true positive (healthy loans) and true negative (high-risk loans) for healthy loans. 
 
-  The classification report:
+    The classification report:
 
-  ![](./Credit_Risk/Images/cr2.png)
+    ![](./Credit_Risk/Images/cr2.png)
 
 ## Summary
 
