@@ -1,5 +1,5 @@
 ## Supervised Learning
-Supervised learning we train a machine learning model using labeled data, where each data point has a known output or label that model tries to predict. The goal of supervised learning is to create a model that can accurately predict the output for new, unseen data.
+In Supervised learning we train a machine learning model using labeled data, where each data point has a known output or label that model tries to predict. The goal of supervised learning is to create a model that can accurately predict the output for new, unseen data.
 There are two broad categories in Supervised machine learning.
   - Classification
   - Regression
